@@ -3,7 +3,7 @@
 	width: 180px; 
 	height: auto;
 	right: 15px; 
-	top: 65px;  
+	top: 70px;  
 	position: fixed; 
 	background: rgba(255,255,255,0.8);
 	border: 1px rgba(0,0,0,0.1);
@@ -148,8 +148,7 @@ body #cdawrap #bsap_aplink:hover{
 }
 #cdawrap #fusion_ad a{
 	display: block;
-	/*padding: 10px;*/
-	width:100%;
+	padding: 10px;
 	font-size: 11px;
 	color: #333;
 	font-weight: bold;
@@ -161,12 +160,6 @@ body #cdawrap #bsap_aplink:hover{
 #cdawrap #fusion_ad .poweredbyfusion {
 	font-size: 10px;
 }
-@media screen and (max-width: 1280px){
-#cdawrap #fusion_ad img{
- width:180px;
- height:auto;
- }
- }
 @media screen and (max-width: 800px){ 
 	#cdawrap,
 	#cdawrap.custom-ad-no-text{
