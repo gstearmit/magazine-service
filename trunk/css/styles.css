@@ -131,6 +131,7 @@ li .action-icon {
 	font-weight: bold;
 /* 	padding-top:18px;
  */	color: #FFFFFF;
+	text-align:center;
 }
 
 .header > .nav {
@@ -255,4 +256,14 @@ color: #444444;
 		height:200px;
 		float:left;
  }
+  .h-top {
+	font-size: 24px;
+	font-weight: bold;
+/* 	padding-top:18px;
+ */	color: #FFFFFF;
+	display:block;
+	margin-left:65px;
+	text-align:center;
+}
+
  }
